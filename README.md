@@ -43,6 +43,8 @@ This indicator was pulled via the Requests and the BeautifulSoup4 packages respe
 
 # The Bitcoin Level
 
+As the Cryptocurrency/Decentralized Finance markets continue to grow, the price movement of Bitcoin has become increasingly effective in determining where the market is trending. This is important for any retail investor in the space to understand.
+
 # The Sharpe Ratio ($SPY and $BTC)
 
 The Sharpe Ratio is a systemic measure of risk for any asset. It generally lets consumers know when an asset is risk-on or risk-off by assessing the “expected differential return and the associated risk” (Sharpe, 1994).  This indicator was pulled via the Requests and the BeautifulSoup4 packages respectively and PortfoliosLab.com as a benchmark reference. 
