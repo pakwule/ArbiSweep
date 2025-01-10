@@ -1,5 +1,5 @@
 # ArbiSweep
-Arbisweep Version One is a an iPython Notebook File with seven base technical/fundamental indicators that will help the average retail investing market participant have a fundamental baseline for portfolio allocation strategies across "The Big Three" market classes. This was completed as a capstone project for Imperial College London's 2024 MsC in Financial Technology course. However, this project has been continuously iterated upon:
+Arbisweep Version One is a an iPython Notebook File with seven base technical/fundamental indicators that will help the average retail investing market participant have a fundamental baseline for portfolio allocation strategies across "The Big Three" market classes. This was completed as a capstone project for Imperial College London's 2024 MSc in Financial Technology course. However, this project has been continuously iterated upon:
 
 Since the days of the barter system, the importance of individual custodianship over ones assets has arguably never been more important in society. 
 
